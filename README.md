@@ -40,6 +40,8 @@ chattr +i /www/server/panel/data/plugin.json
 ```
 
 开源脚本
+
+```
 curl -sSO https://raw.githubusercontent.com/8838/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
 ```
 
@@ -47,11 +49,13 @@ curl -sSO https://raw.githubusercontent.com/8838/btpanel-v7.7.0/main/install/ins
 
 ```
 wget -O optimize.sh http://f.cccyun.cc/bt/optimize.sh && bash optimize.sh
+```
 
 6，启动开心版
 
 ```
 curl -sSO https://raw.githubusercontent.com/ztkink/bthappy/main/one_key_happy.sh && bash one_key_happy.sh
+```
 ============================
 
 ！！如需取消屏蔽手机号
